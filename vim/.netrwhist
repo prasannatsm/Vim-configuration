@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/media/linux_partition/Software/fsl-community-bsp/sources/meta-fsl-arm-extra/recipes-core'
+let g:netrw_dirhist_2='/media/linux_partition/Software/fsl-community-bsp/sources/meta-fsl-arm-extra'
+let g:netrw_dirhist_3='/media/linux_partition/Software/fsl-community-bsp/sources/meta-fsl-arm-extra/recipes-kernel'
+let g:netrw_dirhist_4='/media/linux_partition/Software/fsl-community-bsp/sources/meta-fsl-arm-extra/recipes-kernel/linux'
+let g:netrw_dirhist_5='/media/linux_partition/Software/fsl-community-bsp/sources/meta-fsl-arm-extra/recipes-kernel'
+let g:netrw_dirhist_6='/media/linux_partition/Software/fsl-community-bsp/sources/meta-fsl-arm-extra'
+let g:netrw_dirhist_7='/media/linux_partition/Software/fsl-community-bsp/sources'
+let g:netrw_dirhist_8='/media/linux_partition/Software/fsl-community-bsp/sources/meta-fsl-arm/conf'
+let g:netrw_dirhist_9='/home/prasanna/Software/project/most_display/app/workspace/slim_display_setup_app/Src'
