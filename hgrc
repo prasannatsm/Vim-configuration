@@ -1,0 +1,23 @@
+[ui]
+username = PrasannaKumar Muralidharan <prasannatsmkumar@gmail.com>
+editor = vim
+
+[extensions]
+mq =
+graphlog =
+color =
+progress =
+pager =
+
+[pager]
+pager = LESS='FRSXQ' less
+quiet = True
+attend = diff,status,log,qdiff,blame,annotate,pdiff,glog
+
+[color]
+status.modified = magenta bold
+status.added = green bold
+status.removed = red bold
+status.deleted = cyan bold
+status.unknown = black bold
+status.ignored = black bold
